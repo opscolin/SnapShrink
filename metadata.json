@@ -1,0 +1,6 @@
+{
+  "name": "SnapShrink",
+  "description": "High-speed batch image compressor with custom watermarking and quality controls. Built for performance and privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
